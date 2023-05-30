@@ -1,6 +1,5 @@
 {
     "teste":[
-    {"_id": "1", "nome": "Matheus", "sobrenome": "Antunes Costa", "email": "matheusantunes70@gmail.com", "profissao": "Analista TI", "idade": "28"},
-    {"_id": "2", "nome": "Renato", "sobrenome": "Amaro", "email": "renato@gmail.com", "profissao": "Axiliar de TI", "idade": "30"}
+    {"_id": "1", "nome": "Matheus", "sobrenome": "Antunes Costa", "email": "matheusantunes70@gmail.com", "profissao": "Analista TI", "idade": "28"}
 ]
 }
